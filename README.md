@@ -39,7 +39,7 @@
 -    《HTTP权威指南》
 -    《HTTPS权威指南》
 -    《TCP IP详解卷》
--     《TCP&IP网络编程》
+-    《TCP&IP网络编程》
 -    《UNIX网络编程卷》
  
 
