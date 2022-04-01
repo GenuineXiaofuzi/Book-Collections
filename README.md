@@ -10,6 +10,16 @@
 
 #### 01、 Java
 
+-  《Java编程思想第四版》
+-  《Java程序员修炼之道》
+-  《Java核心技术》
+-  《Effective.Java中文版》
+-   《CoreJava》
+-   《疯狂Java讲义》
+-   《Java核心知识点整理》
+-   《Java程序设计语言》
+
+
 #### 02、 Python
 
 #### 03、数据结构与算法基础
