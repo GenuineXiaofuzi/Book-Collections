@@ -1,10 +1,6 @@
 本仓库**持续更新**中，后续会陆续分享更多经典电子书，**强烈建议大家 Star 下本仓库**
 
 
-
-[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaClub-brightgreen)](http://baidu.com)
-
-
 # 超过1000本的计算机经典书籍分享
 
 
