@@ -2,6 +2,7 @@
 
 
 
+[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-JavaClub-brightgreen)](http://baidu.com)
 
 
 # 超过1000本的计算机经典书籍分享
