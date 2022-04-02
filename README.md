@@ -83,19 +83,19 @@
 
 ### 7、多线程与并发
 
-- 《Java并发编程实战》 [百度云下载链接]()
-- 《Java并发编程的艺术》 [百度云下载链接]()
-- 《Java 并发编程之美》  [百度云下载链接]()
-- 《Java多线程编程核心技术》 [百度云下载链接]()
-- 《Java 多线程编程实战指南 核心篇》 [百度云下载链接]()
-- 《Netty实战》 [百度云下载链接]()
-- 《精通Java并发编程》 [百度云下载链接]()
-- 《深入浅出Java多线程》 [百度云下载链接]()
-- 《实战Java高并发程序设计》 [百度云下载链接]()
+- 《Java并发编程实战》 [百度云下载链接](https://pan.baidu.com/s/1DruMdQmMaAuofzR_bCgCJw) 提取码: u8bm
+- 《Java并发编程的艺术》 [百度云下载链接](https://pan.baidu.com/s/1oyQa7prG-7qd_Dx8vSAYkA) 提取码: qc6w
+- 《Java 并发编程之美》  [百度云下载链接](https://pan.baidu.com/s/1pHNl4EaFQtFIzY8cniImnA) 提取码: agma
+- 《Java多线程编程核心技术》 [百度云下载链接](https://pan.baidu.com/s/1iH7pYnWIJdcfGDyMWaJfzw) 提取码: q3pn
+- 《Java 多线程编程实战指南 核心篇》 [百度云下载链接](https://pan.baidu.com/s/1njoGfHRUfkogTNhUx6rkkA) 提取码: q7hm
+- 《Netty实战》 [百度云下载链接](https://pan.baidu.com/s/16MSJx7emd0R0n4l0PL5q6g) 提取码: pu73
+- 《精通Java并发编程》 [百度云下载链接](https://pan.baidu.com/s/1nUsrk0ix9xg7-mGBECreEw) 提取码: edr2
+- 《深入浅出Java多线程》 [百度云下载链接](https://pan.baidu.com/s/1rhBYsS5pBDm6WSxEBLmVUA) 提取码: 6sym
+- 《实战Java高并发程序设计》 [百度云下载链接](https://pan.baidu.com/s/17Q2acmszpWd_Fxj63vNURw) 提取码: 7mep
 
 ### 8、JVM
 
-- 《深入Java虚拟机》 [百度云下载链接]()
+- 《深入Java虚拟机》 [百度云下载链接](https://pan.baidu.com/s/1Rj65L_rpx0w2xKPZpPjZ3g) 提取码: 8r9a
 
 ### 9、应用框架
 
