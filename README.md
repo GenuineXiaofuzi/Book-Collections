@@ -6,7 +6,7 @@
 
 ### 01、 Java
 
--  《Java编程思想第四版》 [百度云链接](链接: https://pan.baidu.com/s/1_ofS7BJYI2Bhj1eDlhIlNQ):  提取码: 3jil
+-  《Java编程思想第四版》 [百度云下载链接](https://pan.baidu.com/s/16bOV1v-YvDWIEPD51LQ9rw):  提取码: 3jil
 -  《Java程序员修炼之道》
 -  《Java核心技术》
 -  《Effective.Java中文版》
