@@ -108,10 +108,14 @@
     - 《SpringBoot实战 （美）克雷格.沃斯 丁雪丰（译）》
 
   #### 9、3 SpringCloud
-   
- 
-
 
 
 #### 10、研发工具
 
+  - 《Linux防火墙》
+  -  《Linux Shell脚本攻略》
+  - 《Linux环境编程：从应用到内核》
+  - 《UNIX环境高级编程（第三版）》
+  -  《精通Linux》
+  - 《深入Linux内核架构》
+  -  《鸟哥的Linux私房菜基础篇和服务器篇》
