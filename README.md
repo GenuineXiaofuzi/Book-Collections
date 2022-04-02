@@ -83,9 +83,35 @@
 
 ### 7、多线程与并发
 
+  - 《Java并发编程实战》
+  - 《Java并发编程的艺术》
+  - 《Java 并发编程之美》
+  - 《Java多线程编程核心技术》
+  - 《Java 多线程编程实战指南 核心篇》
+  -  <Netty实战>
+  - 《精通Java并发编程》
+  - 《深入浅出Java多线程》
+  - 《实战Java高并发程序设计》
+
 ### 8、JVM
+  - 《深入Java虚拟机》
 
 ### 9、应用框架
+ #### 9、1 Spring
+  - 《Spring 技术内幕》
+  - 《Spring揭秘》
+  - 《Spring实战》
+  - 《Spring源码深度解析》
+  - 《Spring in Action》
+  #### 9、2 SpringBoot
+
+    - 《SpringBoot实战 （美）克雷格.沃斯 丁雪丰（译）》
+
+  #### 9、3 SpringCloud
+   
+ 
+
+
 
 #### 10、研发工具
 
