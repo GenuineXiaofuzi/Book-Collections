@@ -35,22 +35,22 @@
 
 #### 4.1、计算机网络
 
--  《深入理解计算机操作系统》 [百度云下载链接]()
--  《现代操作系统(计算机科学丛书)》 [百度云下载链接]()
--  《操作系统之哲学原理》 [百度云下载链接]()
+-  《深入理解计算机操作系统》 [百度云下载链接](https://pan.baidu.com/s/1L-zAhG2bKBXHKZMM7XVPfA) 提取码: gb9b
+-  《现代操作系统(计算机科学丛书)》 [百度云下载链接](https://pan.baidu.com/s/1L-a_GBXi0efgsi-zokhU5g) 提取码: ytpb
+-  《操作系统之哲学原理》 [百度云下载链接](https://pan.baidu.com/s/1kOz1QzJgapFANXHATzU_6w) 提取码: pc4k
 
 ### 4.2、操作系统
 
--   《计算机网络-自顶向下方法》 [百度云下载链接]()
--   《图解HTTP》 [百度云下载链接]()
--   《图解TCP&IP》  [百度云下载链接]()
--   《网络是怎样连接的》 [百度云下载链接]()
--   《HTTP&2基础教程》 [百度云下载链接]()
--   《HTTP权威指南》   [百度云下载链接]()
--   《HTTPS权威指南》  [百度云下载链接]()
--   《TCP IP详解卷》   [百度云下载链接]()
--   《TCP&IP网络编程》  [百度云下载链接]()
--   《UNIX网络编程卷》  [百度云下载链接]()
+-   《计算机网络-自顶向下方法》 [百度云下载链接](https://pan.baidu.com/s/1-1JiCUycEdGQPBBDU1-VLg) 提取码: fw7b
+-   《图解HTTP》 [百度云下载链接](https://pan.baidu.com/s/1vqrKXd36LbhCQs6rzaXWpQ) 提取码: zsg9
+-   《图解TCP&IP》  [百度云下载链接](https://pan.baidu.com/s/1roIa2pqP2hyZRDuIpgyEXQ) 提取码: vv5n
+-   《网络是怎样连接的》 [百度云下载链接](https://pan.baidu.com/s/1M4_l-gYZxIVP22UbqsaNPA) 提取码: jitq
+-   《HTTP&2基础教程》 [百度云下载链接](https://pan.baidu.com/s/1mdPF2i0vI5OiccOFUC27fQ) 提取码: auq4
+-   《HTTP权威指南》   [百度云下载链接](https://pan.baidu.com/s/18GmnU0gQqGmVzmtQUNtCxw) 提取码: fvsb
+-   《HTTPS权威指南》  [百度云下载链接](https://pan.baidu.com/s/1jbjZy2RPc74BpKUTBT-_kg) 提取码: ytq7
+-   《TCP IP详解卷》   [百度云下载链接](https://pan.baidu.com/s/1rhThFgOuwhsWMwHmspsWHg) 提取码: jt6r 
+-   《TCP&IP网络编程》  [百度云下载链接](https://pan.baidu.com/s/1ojrQz2mJJWNpdgnyXa0KLQ) 提取码: 3rcb
+-   《UNIX网络编程卷》  [百度云下载链接](https://pan.baidu.com/s/1fM1uYq93aX-rKdate5TRqQ)  提取码: d6tf
 
 
 ###  5、数据库
