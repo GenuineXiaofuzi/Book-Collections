@@ -7,13 +7,13 @@
 ### 01、 Java
 
 -  《Java编程思想第四版》 [百度云下载链接](https://pan.baidu.com/s/16bOV1v-YvDWIEPD51LQ9rw):  提取码: 3jil
--  《Java程序员修炼之道》
--  《Java核心技术》
--  《Effective.Java中文版》
--  《CoreJava》
--  《疯狂Java讲义》
--  《Java核心知识点整理》
--  《Java程序设计语言》
+-  《Java程序员修炼之道》[百度云下载链接](https://pan.baidu.com/s/114R3H0SF_D6m-PhobRAeJQ) 提取码: nesi
+-  《Java核心技术》[百度云下载链接](https://pan.baidu.com/s/1uBh59gzsNCLjlxJA-Ujuqw) 提取码: p0o6
+-  《Effective.Java中文版》[百度云下载链接](https://pan.baidu.com/s/1UoZ2mQ9GSXXwaMCT4OXIEw) 提取码: xmxd
+-  《CoreJava》[百度云下载链接](https://pan.baidu.com/s/1YOUwTE2AcEjCQMtaxQ0vLg) 提取码: aqp8
+-  《疯狂Java讲义》[百度云下载链接](https://pan.baidu.com/s/1tp7X6U6QN9qUW70ZJ9Jr6Q) 提取码: sbkt
+-  《Java核心知识点整理》[百度云下载链接](https://pan.baidu.com/s/1O6Vj5NGA86H4O2KrenehWQ) 提取码: faht
+-  《Java程序设计语言》[百度云下载链接](https://pan.baidu.com/s/1hT6PiMltfOi6hsGOVyp15Q) 提取码: gc28
 
 ### 02、 Python
 
