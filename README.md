@@ -57,19 +57,19 @@
 
 #### 5.1、Mysql
 
-- 《MySql必知必会》 [百度云下载链接]()
-- 《MySql技术内幕 InnoDB存储引擎第二版》 [百度云下载链接]()
-- 《MySqli性能调优与架构技术》 [百度云下载链接]()
-- 《SQL查询的艺术》 [百度云下载链接]()
-- 《SQL反模式》 [百度云下载链接]()
-- 《高性能Msql第三版》 [百度云下载链接]()
-- 《深入浅出MySql》 [百度云下载链接]()
+- 《MySql必知必会》 [百度云下载链接](https://pan.baidu.com/s/1Memxl8vBbxU6BmbxJ09aew) 提取码: spvk
+- 《MySql技术内幕 InnoDB存储引擎第二版》 [百度云下载链接](https://pan.baidu.com/s/1Ng1W8-sZk8y7vQeKkXeyUg) 提取码: 3mns
+- 《MySql性能调优与架构技术》 [百度云下载链接](https://pan.baidu.com/s/1TJszFftASxYBQn8MwLfHtA) 提取码: rt7e
+- 《SQL查询的艺术》 [百度云下载链接](https://pan.baidu.com/s/1HJGFXIoPojLdg5F3aeRdtw) 提取码: umqe
+- 《SQL反模式》 [百度云下载链接](https://pan.baidu.com/s/17TPVmtEUkHLWwHxcl-VmXg) 提取码: tgq3
+- 《高性能Msql第三版》 [百度云下载链接](https://pan.baidu.com/s/1zs0cYwdyXObzV--LrwJ1fQ) 提取码: 23rd
+- 《深入浅出MySql》 [百度云下载链接](https://pan.baidu.com/s/1T5LrxHDYiIWNZo_chz1-Uw) 提取码: sk9p
 
 #### 5.2、Redis
 
-- 《Redis开发与运维》 [百度云下载链接]()
-- 《Redis设计与实现》 [百度云下载链接]() 
-- 《Redis中文入门手册》 [百度云下载链接]()
+- 《Redis开发与运维》 [百度云下载链接](https://pan.baidu.com/s/1zUCSNFy0m-12vBuRTyHKKw)  提取码: vsmh
+- 《Redis设计与实现》 [百度云下载链接](https://pan.baidu.com/s/1_UUbGR4AmTg-QBVXiYuyNg) 提取码: ujdb
+- 《Redis中文入门手册》 [百度云下载链接](https://pan.baidu.com/s/1tWccAebGyXOWfj8LRSo3YQ) 提取码: wrbh
 
 ### 6、设计模式
 
