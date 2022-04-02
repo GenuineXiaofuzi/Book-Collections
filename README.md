@@ -121,3 +121,7 @@
 - 《精通Linux》[百度云下载链接](https://pan.baidu.com/s/1JIL4Hjrj-QQZug4xKTYjHA)  提取码: kya3
 - 《深入Linux内核架构》 [百度云下载链接](https://pan.baidu.com/s/1RrWqzCkl5MKAzgiQGQj6Qg) 提取码: fjgk
 - 《鸟哥的Linux私房菜基础篇和服务器篇》 [百度云下载链接](https://pan.baidu.com/s/1ydIkQ_lw4ntm-6qowgNWJA) 提取码: cikg
+
+#### 免责声明
+
+书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1258209561@qq.com
