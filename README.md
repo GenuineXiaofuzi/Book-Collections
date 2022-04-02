@@ -73,13 +73,13 @@
 
 ### 6、设计模式
 
-- 《大话设计模式》  [百度云下载链接]()
-- 《设计模式应用》 [百度云下载链接]()
-  
-- 《Java Web设计模式之道》 [百度云下载链接]()
-- 《Head First设计模式》 [百度云下载链接]()
-- 《图解设计模式》 [百度云下载链接]()
-- 《设计模式之禅》 [百度云下载链接]()
+- 《大话设计模式》  [百度云下载链接](https://pan.baidu.com/s/1F5B1nqQ8npYSoWwEW5HcTQ) 提取码: ges8
+- 《设计模式应用》 [百度云下载链接](https://pan.baidu.com/s/1VLQO0fC657VdFtKASXFs2A) 提取码: w52m
+- 《Java Web设计模式之道》 [百度云下载链接](https://pan.baidu.com/s/1kjtCaPAAR6boFMnIlm8yUQ) 提取码: wgn8
+- 《Head First设计模式》 [百度云下载链接](https://pan.baidu.com/s/1Nup6JadRe2VSgloYwOH0uw) 提取码: y6tf
+- 《图解设计模式》 [百度云下载链接](https://pan.baidu.com/s/1OsSiIgqnftLPzbi2q9vVPw) 提取码: q6sw
+- 《设计模式之禅》 [百度云下载链接](https://pan.baidu.com/s/1er5XeCr-yjqXhOxeSLYApQ) 提取码: 4r8m
+- 《研磨设计模式》 [百度云下载链接](https://pan.baidu.com/s/1WXwL16i-nMqExvVWa68P0g) 提取码: prnn
 
 ### 7、多线程与并发
 
