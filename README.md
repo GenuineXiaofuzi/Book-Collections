@@ -105,7 +105,7 @@
   - 《Spring in Action》
   #### 9、2 SpringBoot
 
-    - 《SpringBoot实战 （美）克雷格.沃斯 丁雪丰（译）》
+  - 《SpringBoot实战 （美）克雷格.沃斯 丁雪丰（译）》
 
   #### 9、3 SpringCloud
 
