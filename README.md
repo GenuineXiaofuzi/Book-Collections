@@ -2,6 +2,10 @@
 
 重要说明：这些书包含入门和进阶类书籍，大家按照自己需求选择，同时本仓库会**持续更新**，后续分享更多经典电子书，**强烈建议大家 Star 下本仓库并且持续关注这个项目** 
 
+
+
+[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-brightgreen)](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484784&amp;idx=1&amp;sn=fe6c6b91780f1ae12c8fd53cf453a982&amp;chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=1827893064&lang=zh_CN#rd)
+
 [![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-green)](https://www.zhihu.com/people/xiaofuzi123)
 
 [![思否](https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-orange)](https://segmentfault.com/u/xiaofuzi123)
