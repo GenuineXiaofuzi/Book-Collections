@@ -1,26 +1,8 @@
 
 
-重要说明：这些书包含入门和进阶类书籍，大家按照自己需求选择，同时本仓库会**持续更新**，后续分享更多经典电子书，**强烈建议大家 Star 下本仓库并且持续关注这个项目** 
+重要说明：这些书包含入门和进阶类书籍，大家按照自己需求选择，同时本仓库会**持续更新**，后续分享更多经典电子书，**强烈建议大家 Star 下本仓库并且持续关注这个项目**
 
-
-
-[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-brightgreen)](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484784&amp;idx=1&amp;sn=fe6c6b91780f1ae12c8fd53cf453a982&amp;chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=1827893064&lang=zh_CN#rd)
-
-[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-green)](https://www.zhihu.com/people/xiaofuzi123)
-
-[![思否](https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-orange)](https://segmentfault.com/u/xiaofuzi123)
-
-
-
-[![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blue)](https://www.jianshu.com/u/a3fa8f8e3f8b)
-
-
-
-[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blueviolet)](https://juejin.cn/user/729731453946135)
-
-
-
-[![CSDN](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-red)](https://blog.csdn.net/weixin_44848573?spm=1011.2124.3001.5343)
+[![公众号](https://img.shields.io/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-brightgreen)](https://mp.weixin.qq.com/s?__biz=MzIzMDg0NTUzNQ==&amp;mid=2247484784&amp;idx=1&amp;sn=fe6c6b91780f1ae12c8fd53cf453a982&amp;chksm=e8ac7840dfdbf156a47eda95bc892c54f54c52d20b1557bb5769070a13a30da50a398b79aa2c&token=1827893064&lang=zh_CN#rd)[![知乎](https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-green)](https://www.zhihu.com/people/xiaofuzi123)[![思否](https://img.shields.io/badge/%E6%80%9D%E5%90%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-orange)](https://segmentfault.com/u/xiaofuzi123)[![简书](https://img.shields.io/badge/%E7%AE%80%E4%B9%A6-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blue)](https://www.jianshu.com/u/a3fa8f8e3f8b)[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-blueviolet)](https://juejin.cn/user/729731453946135)[![CSDN](https://img.shields.io/badge/%E6%8E%98%E9%87%91-%E9%98%BF%E7%A6%8F%E8%81%8A%E7%BC%96%E7%A8%8B-red)](https://blog.csdn.net/weixin_44848573?spm=1011.2124.3001.5343)
 
 
 
@@ -69,7 +51,7 @@
 -   《HTTP&2基础教程》 [百度云下载链接](https://pan.baidu.com/s/1mdPF2i0vI5OiccOFUC27fQ) 提取码: auq4
 -   《HTTP权威指南》   [百度云下载链接](https://pan.baidu.com/s/18GmnU0gQqGmVzmtQUNtCxw) 提取码: fvsb
 -   《HTTPS权威指南》  [百度云下载链接](https://pan.baidu.com/s/1jbjZy2RPc74BpKUTBT-_kg) 提取码: ytq7
--   《TCP IP详解卷》   [百度云下载链接](https://pan.baidu.com/s/1rhThFgOuwhsWMwHmspsWHg) 提取码: jt6r 
+-   《TCP IP详解卷》   [百度云下载链接](https://pan.baidu.com/s/1rhThFgOuwhsWMwHmspsWHg) 提取码: jt6r
 -   《TCP&IP网络编程》  [百度云下载链接](https://pan.baidu.com/s/1ojrQz2mJJWNpdgnyXa0KLQ) 提取码: 3rcb
 -   《UNIX网络编程卷》  [百度云下载链接](https://pan.baidu.com/s/1fM1uYq93aX-rKdate5TRqQ)  提取码: d6tf
 
@@ -148,3 +130,14 @@
 #### 免责声明
 
 书籍全部来源于网络其他人的整理，我这里只是收集整理了他们的链接，如有侵权，马上联系我，我立马删除对应链接。我的邮箱：1258209561@qq.com
+
+
+
+
+
+
+
+
+
+
+
