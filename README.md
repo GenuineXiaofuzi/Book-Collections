@@ -16,6 +16,8 @@
 -  《疯狂Java讲义》[百度云下载链接](https://pan.baidu.com/s/1tp7X6U6QN9qUW70ZJ9Jr6Q) 提取码: sbkt
 -  《Java核心知识点整理》[百度云下载链接](https://pan.baidu.com/s/1O6Vj5NGA86H4O2KrenehWQ) 提取码: faht
 -  《Java程序设计语言》[百度云下载链接](https://pan.baidu.com/s/1hT6PiMltfOi6hsGOVyp15Q) 提取码: gc28
+-  《Java 1.8函数式编程》[百度云下载链接](https://pan.baidu.com/s/1m6ZSDkc9z3S6u_WePwjv1w ) 提取码: 2sgp
+
 
 ### 02、 Python
 
