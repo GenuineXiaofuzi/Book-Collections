@@ -2,9 +2,9 @@
 
 **重要说明**：这些书包含入门和进阶类书籍，大家按照自己需求选择，同时本仓库会**持续更新**，后续分享更多经典电子书，**强烈建议大家 Star 下本仓库并且持续关注这个项目**
 
-有需要全部电子书资源的小伙伴，可以关注公众号：**【阿福聊编程】**获取
+有需要全部电子书资源的小伙伴，可以关注公众号：**【阿福聊编程】** 获取，回复：***电子书***
 
-![](https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204051946653.png)
+![](https://cdn.jsdelivr.net/gh/GenuineXiaofuzi/Picture-Manager/images/202204051949643.png)
 
 ### 01、 Java
 
